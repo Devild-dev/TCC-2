@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+venv/
+.venv/
+*.log
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+Weights 3/
+Images/
